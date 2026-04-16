@@ -24,3 +24,6 @@ require (
 
 // Personal fork - tracking upstream tulir/whatsmeow
 // Last synced: 2024-05
+// Notes:
+//   - Studying message handling and event dispatch internals
+//   - TODO: experiment with custom reconnect backoff logic
